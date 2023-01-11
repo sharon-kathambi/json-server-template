@@ -2,31 +2,31 @@
   "travel": [
     {
       "id": 1,
-      "image": "https://drive.google.com/file/d/19XTj7BZLYvooWcNoQ5vW_qq24IXQqjHY/view?usp=sharing",
+      "image": "https://www.travelandleisure.com/thmb/o1Zn3Wgoj0jHudbKErQ9pb1jHjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kaieteur-falls-amazon-WTRFLLBIG0318-5617b654d7524263afaf09f9fb23e32a.jpg",
       "text": "Explore the hidden waterfall deep inside the Amazon Jungle",
       "category": "Adventure"
     },
     {
       "id": 2,
-      "image": "https://drive.google.com/file/d/1Csf_efDtvHcl7q3RuxLSrbUfO1w7gH91/view?usp=sharing",
+      "image": "https://youlovetrip.com/wp-content/uploads/2019/07/cropped-Luxury-Charter-Island-2-1.jpg",
       "text": "Travel through the Islands of Bali in a Private Cruise",
       "category": "Luxury"
     },
     {
       "id": 3,
-      "image": "https://drive.google.com/file/d/1_rQnQyHXeCiKzs1wdArLGHzTe99OfkTb/view?usp=sharing",
+      "image": "https://improvesailing.com/media/pages/questions/sail-atlantic/3605050055-1560984038/sailing-vessel-at-sea-1024x-q80.jpg",
       "text": "Set Sail in the Atlantic Ocean visiting Uncharted Waters'",
       "category": "Mystery"
     },
     {
       "id": 4,
-      "image":"https://drive.google.com/file/d/104spnZW-25e09691VrAGbfYb4gOadolP/view?usp=sharing",
+      "image":"https://i.pinimg.com/originals/91/fc/4e/91fc4e86cb47a722a643207371ee35f0.jpg",
       "text":"Experience Football on Top of the Himilayan Mountains",
       "category": "Adventure"
     },
     {
       "id": 5,
-      "image": "https://drive.google.com/file/d/16LMTXXr_YMi49bLbSM4qOg87DXeP7vl6",
+      "image": "https://media.cntraveler.com/photos/53ec0a91976f8f2d44d5a7f3/master/pass/grand-erg-oriental.png",
       "text": "Ride through the Sahara Desert on a guided camel tour",
       "category": "Adrenaline"
     }
